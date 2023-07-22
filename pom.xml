@@ -36,10 +36,10 @@
 						<uri>https://anypoint.mulesoft.com</uri>
 						<provider>MC</provider>
 						<environment>Sandbox</environment>
-						<target>test</target>
+						<target>Cloudhub-US-West-1</target>
 						<muleVersion>4.4.0</muleVersion>
-						<username>jayshah51</username>
-						<password>Vitrag@007</password>
+						<username>8db83bce566e45608e0751b91619f95e</username>
+						<password>437343B867a940a5A69368E6cfcF9D66</password>
 						<applicationName>testSandbox</applicationName>
 						<replicas>1</replicas>
 						<vCores>1</vCores>
