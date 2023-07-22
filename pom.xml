@@ -37,7 +37,6 @@
       			<password>Vitrag@007</password>
       			<applicationName>test-sandbox</applicationName>
       			<environment>Sandbox</environment>
-      			<region>us-e1</region>
       			<workers>1</workers>
       			<workerType>MICRO</workerType>
       			<objectStoreV2>true</objectStoreV2>
